@@ -45,7 +45,7 @@ Includes Qatar FIFA Mania, Snake, and more using Windows Forms and OOP concepts.
 
 - 🌐 Portfolio: [sabashahdin.netlify.app](https://sabashahdin.netlify.app)  
 - 💼 LinkedIn: [linkedin.com/in/saba-shahdin-274142268](https://www.linkedin.com/in/saba-shahdin-274142268)  
-- 📧 Email: *(optional to add)*
+- 📧 Email: *sabashahdin20@gmail.com*
 
 ---
 
