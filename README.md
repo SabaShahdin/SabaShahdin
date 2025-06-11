@@ -1,56 +1,54 @@
 # 👩‍💻 Saba Shahdin
 
-🎓 **Bachelor of Science in Computer Science**  
-🏛️ **University of Engineering and Technology (UET), Lahore**  
-📅 **Expected Graduation: 2026**
+🎓 Bachelor of Science in Computer Science  
+🏛️ University of Engineering and Technology (UET), Lahore  
+📅 Expected Graduation: 2026  
+📚 Currently enrolled in HCCDA Tech Essentials course
 
-I'm a passionate and detail-oriented software developer with hands-on experience in full-stack development, desktop applications, system programming, and AI projects. I build efficient, scalable, and user-focused solutions across a variety of domains.
-
-Currently enrolled in the **HCCDA Tech Essentials course**, enhancing my understanding of cloud computing, virtualization, web technologies, and modern software infrastructure.
+I'm a software developer passionate about real-time systems, AI-driven applications, and full-stack development. I enjoy solving real-world problems with smart, efficient, and scalable solutions.
 
 ---
 
-## 🚀 Projects Overview
+## 🚀 Projects
 
-### 💼 Hospital Management System  (Continue)
-Flutter + Node.js + MongoDB  
-> Role-based app for managing hospital workflows, admin panels, appointments, and patient records.
+### 🛣️ OnRide Manzil  
+A real-time ride-booking web platform using **WebSockets**, with live tracking, secure payments, and route optimization. Built using **Agile methodology** and supports multiple vehicle types.  
+🛠️ *Stack:* JavaScript, Node.js, WebSockets
 
-### 🛣️ OnRide Manzil
-🚗 A real-time ride booking web platform built with WebSockets for live tracking, secure payments, and efficient route management across multiple vehicle types—developed using Agile project management methodologies for optimal delivery and collaboration.
+### 🏥 Hospital Management System  
+A role-based Flutter app for managing hospital workflows, including admin dashboards, appointments, and records.  
+🛠️ *Stack:* Flutter, Node.js, MongoDB
 
+### 🧠 Blood Vessel Detection System  
+A hybrid image processing and deep learning model (U-Net CNN) for segmenting retinal and brain MRI blood vessels. Enhances diagnostics for diseases like glaucoma and diabetic retinopathy.  
+🛠️ *Stack:* Python, OpenCV, Keras
+
+### 🥗 NutriFit – AI-Based Diet Recommendation System  
+An intelligent system offering personalized diet plans based on BMI, allergies, and lifestyle using **machine learning** and **NLP**.  
+🛠️ *Stack:* Python, Scikit-learn, NLP, Web Technologies
+
+### 🧾 Expense Tracker App  
+A simple, responsive app to track and visualize expenses.  
+🛠️ *Stack:* JavaScript, LocalStorage
 
 ### 🍲 Recipe Recommendation System  
-JavaScript + Web APIs  
-> Suggests recipes based on user input ingredients using real-time API calls.
+Fetches recipes based on user-input ingredients using real-time APIs.  
+🛠️ *Stack:* JavaScript, REST APIs
 
-### 📊 Expense Tracker App  
-JavaScript + LocalStorage  
-> Tracks personal expenses with real-time updates and responsive charts.
-
-### 🕹️ Game GUI Projects (C#)  
-> Qatar FIFA Mania, Snake, and interactive GUI games using Windows Forms and OOP.
-
-### 🧠 AI & Security Projects  
-> Worked on AI classification, and secure data handling.
+### 🕹️ GUI Games in C#  
+Includes Qatar FIFA Mania, Snake, and more using Windows Forms and OOP concepts.  
+🛠️ *Stack:* C#, .NET
 
 ---
 
-## 🛠 Technical Skills
+## 📫 Connect with Me
 
-- **Languages**: C++, C#, JavaScript, Dart, Assembly
-- **Frameworks**: Flutter, Node.js, Express.js, MongoDB, Windows Forms
-- **Concepts**: OOP, REST APIs, Full-Stack, System Programming, Git, Agile
-- **Tools**: Visual Studio, VS Code, GitHub, Netlify
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: [sabashahdin.netlify.app](https://sabashahdin.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/saba-shahdin-274142268](https://www.linkedin.com/in/saba-shahdin-274142268/)
-
+- 🌐 Portfolio: [sabashahdin.netlify.app](https://sabashahdin.netlify.app)  
+- 💼 LinkedIn: [linkedin.com/in/saba-shahdin-274142268](https://www.linkedin.com/in/saba-shahdin-274142268)  
+- 📧 Email: *(optional to add)*
 
 ---
 
-🔭 Currently exploring AI, cloud infrastructure, and open to internships or collaborative projects!
+🔍 Exploring AI, system optimization, and open to internships and collaborative opportunities!
+🔭 Currently enrolled in **HCDA - Tech Essentials**  
+🌱 Exploring AI in healthcare, EEG signal analysis, and scalable cloud-based solutions.
