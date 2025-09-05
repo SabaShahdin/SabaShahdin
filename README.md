@@ -3,32 +3,34 @@
 🎓 Bachelor of Science in Computer Science  
 🏛️ University of Engineering and Technology (UET), Lahore  
 📅 Expected Graduation: 2026  
-📚 Currently enrolled in HCCDA Tech Essentials course
+📚 Currently enrolled in **HCCDA Tech Essentials** course
 
 I'm a software developer passionate about real-time systems, AI-driven applications, and full-stack development. I enjoy solving real-world problems with smart, efficient, and scalable solutions.
 
 ---
 
 ## 🚀 Projects
-### 1. [LAMBDA-Sava-PDF-to-Postreg](https://github.com/SabaShahdin/LAMBDA-Sava-PDF-to-Postreg)
-📄 **Description**: Serverless AWS Lambda app to extract data from PDF files and post to a registration system.
 
-### 2. [CSV-Import-Demo-Flask-SQLite](https://github.com/SabaShahdin/CSV-Import-Demo-Flask-SQLite)
-📦 **Description**: Flask app demonstrating CSV import functionality with SQLite storage.
+### 1. [LAMBDA-Sava-PDF-to-Postreg](https://github.com/SabaShahdin/LAMBDA-Sava-PDF-to-Postreg)  
+📄 Serverless AWS Lambda app to extract data from PDF files and post to a registration system.
 
-### 3. [MinIO-Event-Listener-Flask-Python](https://github.com/SabaShahdin/MinIO-Event-Listener-Flask-Python)
-📡 **Description**: Flask-based listener for MinIO events to process incoming data and trigger actions.
+### 2. [CSV-Import-Demo-Flask-SQLite](https://github.com/SabaShahdin/CSV-Import-Demo-Flask-SQLite)  
+📦 Flask app demonstrating CSV import functionality with SQLite storage.
 
-### 4. [n8n-workflow-for-AI-Agent](https://github.com/SabaShahdin/n8n-workflow-for-AI-Agent)
-🤖 **Description**: Automation workflow using n8n to orchestrate AI agent tasks and data pipelines.
+### 3. [MinIO-Event-Listener-Flask-Python](https://github.com/SabaShahdin/MinIO-Event-Listener-Flask-Python)  
+📡 Flask-based listener for MinIO events to process incoming data and trigger actions.
 
-### 5. [MedAssistant](https://github.com/SabaShahdin/MedAssistant)
-💊 **Description**: A medical assistant app providing healthcare guidance and reminders.
+### 4. [n8n-workflow-for-AI-Agent](https://github.com/SabaShahdin/n8n-workflow-for-AI-Agent)  
+🤖 Automation workflow using n8n to orchestrate AI agent tasks and data pipelines.
+
+### 5. [MedAssistant](https://github.com/SabaShahdin/MedAssistant)  
+💊 A medical assistant app providing healthcare guidance and reminders.
+
 ### 🛣️ OnRide Manzil  
 A real-time ride-booking web platform using **WebSockets**, with live tracking, secure payments, and route optimization. Built using **Agile methodology** and supports multiple vehicle types.  
 🛠️ *Stack:* JavaScript, Node.js, WebSockets
 
-### 🏥 Hospital Management System  (In Progress)
+### 🏥 Hospital Management System (In Progress)  
 A role-based Flutter app for managing hospital workflows, including admin dashboards, appointments, and records.  
 🛠️ *Stack:* Flutter, Node.js, MongoDB
 
@@ -58,10 +60,10 @@ Includes Qatar FIFA Mania, Snake, and more using Windows Forms and OOP concepts.
 
 - 🌐 Portfolio: [sabashahdin.netlify.app](https://sabashahdin.netlify.app)  
 - 💼 LinkedIn: [linkedin.com/in/saba-shahdin-274142268](https://www.linkedin.com/in/saba-shahdin-274142268)  
-- 📧 Email: *sabashahdin20@gmail.com*
+- 📧 Email: sabashahdin20@gmail.com
 
 ---
 
-🔍 Exploring AI, system optimization, and open to internships and collaborative opportunities!
-🔭 Currently enrolled in **HCDA - Tech Essentials**  
+🔍 Exploring AI, system optimization, and open to internships and collaborative opportunities.  
+🔭 Currently enrolled in **HCCDA Tech Essentials**  
 🌱 Exploring AI in healthcare, EEG signal analysis, and scalable cloud-based solutions.
