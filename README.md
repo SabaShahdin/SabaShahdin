@@ -10,7 +10,20 @@ I'm a software developer passionate about real-time systems, AI-driven applicati
 ---
 
 ## 🚀 Projects
+### 1. [LAMBDA-Sava-PDF-to-Postreg](https://github.com/SabaShahdin/LAMBDA-Sava-PDF-to-Postreg)
+📄 **Description**: Serverless AWS Lambda app to extract data from PDF files and post to a registration system.
 
+### 2. [CSV-Import-Demo-Flask-SQLite](https://github.com/SabaShahdin/CSV-Import-Demo-Flask-SQLite)
+📦 **Description**: Flask app demonstrating CSV import functionality with SQLite storage.
+
+### 3. [MinIO-Event-Listener-Flask-Python](https://github.com/SabaShahdin/MinIO-Event-Listener-Flask-Python)
+📡 **Description**: Flask-based listener for MinIO events to process incoming data and trigger actions.
+
+### 4. [n8n-workflow-for-AI-Agent](https://github.com/SabaShahdin/n8n-workflow-for-AI-Agent)
+🤖 **Description**: Automation workflow using n8n to orchestrate AI agent tasks and data pipelines.
+
+### 5. [MedAssistant](https://github.com/SabaShahdin/MedAssistant)
+💊 **Description**: A medical assistant app providing healthcare guidance and reminders.
 ### 🛣️ OnRide Manzil  
 A real-time ride-booking web platform using **WebSockets**, with live tracking, secure payments, and route optimization. Built using **Agile methodology** and supports multiple vehicle types.  
 🛠️ *Stack:* JavaScript, Node.js, WebSockets
