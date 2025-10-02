@@ -41,8 +41,7 @@ I believe in writing **clean, impactful, and production-ready code** that bridge
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hawei Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=huaweicloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -52,7 +51,7 @@ I believe in writing **clean, impactful, and production-ready code** that bridge
 
 ## 🏗️ Featured Projects
 
-### 🚘 [**Y On Ride**](https://github.com/SabaShahdin/Y-On-Ride)
+### 🚘 [** On Ride**]
 A real-time ride-sharing app built with **Flutter**, **Node.js**, and **MongoDB**.  
 - Role-based authentication (Driver / Rider)  
 - Real-time socket communication  
@@ -60,14 +59,14 @@ A real-time ride-sharing app built with **Flutter**, **Node.js**, and **MongoDB*
 
 ---
 
-### ☁️ [**On Ride as Microservice Architecture**](https://github.com/SabaShahdin/On-Rode-On-Cloud)
+### ☁️ [**On Ride as Microservice Architecture**]
 Cloud-native version of * On Ride* with **Docker**, **Kubernetes***.  
 - CI/CD automation using GitHub Actions  
 - Containerized microservices architecture  
 
 ---
 
-### 🏥 [**Med Assistant**](https://github.com/SabaShahdin/Med-Assistant)
+### 🏥 [**Med Assistant**]
 An AI-powered healthcare management system with **chatbots**, **role-based dashboards**, and **data analytics**.  
 - Assisting the use with their medicine related queries
 - Secure authentication  
